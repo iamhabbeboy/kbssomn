@@ -1,0 +1,32 @@
+.profile-holder {
+    width: 200px;
+    height: 200px;
+    border: 1px solid #ccc;
+    text-align:center;
+}
+
+.profile-pix:hover{
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.profile-pix {
+    position: relative;
+    top: -200px;
+    width: 200px;
+    height: 200px;
+    background: transparent;
+    /* background: rgba(0, 0, 0, 0.5);
+    display: none; */
+}
+
+.profile-pix a {
+    color: #FFF;
+    position: relative;
+    top: 130px;
+    left: 70px;
+}
+
+.image {
+    width: 50px;
+    opacity: 0.6;
+}
