@@ -10,7 +10,7 @@
                             </div>
                             <div class="card-body">
                                 <p>
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat voluptatum accusamus obcaecati aspernatur illo eligendi nisi, omnis est? Aspernatur animi quia officia delectus, quam aut. Est doloremque vitae temporibus nobis.
+                                    You are officially welcome to Kebbi state portal
                                 </p>
                             </div>
                         </div>
